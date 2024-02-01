@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -7,8 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello React! <br/>
+          Hello React! <br />
           This app is hosted with AWS Elastic Beanstalk and AWS CodePipeline.
+          this is the change.
         </p>
       </header>
     </div>
